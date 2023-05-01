@@ -1,0 +1,7 @@
+.background-moon{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    
+    background: radial-gradient(84.16% 84.16% at 50% 15.84%, #8f8582	 30%, #4f4948	 82.16%, #3d3836 100%);
+}
